@@ -10,7 +10,7 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 -- CONFIG
 -- ══════════════════════════════
 local DISCORD_LINK = "https://discord.com/invite/6SUC6U7Chd"
-local LOAD_DURATION = 10
+local LOAD_DURATION = 5
 
 local GAME_SCRIPTS = {
     [93978595733734] = "https://raw.githubusercontent.com/DimsGti/ViolenceDistrict/main/main.lua",
